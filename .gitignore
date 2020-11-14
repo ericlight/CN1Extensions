@@ -1,0 +1,15 @@
+
+CN1Extensions/.qmake.stash
+CN1Extensions/CN1Extensions.pro.user
+CN1Extensions/darcula.css
+debug/
+release/
+.idea/
+CN1Extensions/CN1Extensions_resource.rc
+CN1Extensions/Makefile
+CN1Extensions/Makefile.Debug
+CN1Extensions/Makefile.Release
+CN1Extensions/refresh-libs.exe
+CN1Extensions/ui_extensions.h
+refresh-libs/refresh-libs.exe
+CN1Extensions/libs/CodeRAD.cn1lib
